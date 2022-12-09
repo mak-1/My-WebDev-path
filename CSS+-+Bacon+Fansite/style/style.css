@@ -1,3 +1,35 @@
-img {
-    color:red;
+/*********************************TAG SELECTORS************************************/
+
+
+h1{
+color: red;
+
+
+}
+/*********************************CLASS SELECTOR************************************/
+
+img:hover {
+    background-color:gold;
+}
+
+.bacon {
+
+    background-color:green;
+}
+
+.broccoli {
+
+    background-color: red;
+}
+.circular {
+
+  border-radius: 100%;  
+}
+/*********************************ID SELECTOR************************************/
+
+#heading {
+
+color: blue;
+
+
 }
